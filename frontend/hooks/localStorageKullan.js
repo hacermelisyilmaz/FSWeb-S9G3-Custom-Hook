@@ -1,1 +1,1 @@
-export const localStorageKullan = () => {};
+export const localStorageKullan = (keyValue, baslangicDegeri) => {};
